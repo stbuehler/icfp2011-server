@@ -1,0 +1,6 @@
+
+Compile with "make"
+
+Start with ./NetworkServer
+
+It takes an optional hostname that will be print in the bash lines to connect to the server.
